@@ -31,8 +31,7 @@ A further development of version control systems exploring a different architect
 
 ### University + Other Projects
 
-- BOOSEApp
-- SENDSupportServices
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BradCp2&repo=LeetCode&theme=github_dark)](https://github.com/BradCp2/LeetCode)
+
+[![SEND Support Services](send-website-card.svg)](https://www.sendsupportservices.org.uk/)
 
