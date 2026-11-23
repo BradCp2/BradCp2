@@ -29,7 +29,7 @@ A further development of version control systems exploring a different architect
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BradCp2&repo=Weave2_Installer&theme=github_dark)](https://github.com/BradCp2/Weave2_Installer)
 
-### University + Other Projects
+## University + Other Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BradCp2&repo=LeetCode&theme=github_dark)](https://github.com/BradCp2/LeetCode)
 
