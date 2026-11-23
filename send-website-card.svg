@@ -1,0 +1,50 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="150" viewBox="0 0 400 150">
+
+  <rect x="1" y="1" width="398" height="148"
+        rx="8" fill="#0d1117" stroke="#FFFFFF"/>
+
+  <!-- Title -->
+   <g font-family="Arial, sans-serif">
+    <circle cx="27" cy="27" r="10"
+        fill="none" stroke="#539bf5" stroke-width="1.5"/>
+    <ellipse cx="27" cy="27" rx="4.5" ry="10"
+         fill="none" stroke="#539bf5" stroke-width="1.2"/>
+    <path d="M17 27h20 M19 22h16 M19 32h16"
+      fill="none" stroke="#539bf5" stroke-width="1.2"/>
+      Globe icon
+
+    <text x="45" y="31" font-size="16"
+          font-weight="600" fill="#539bf5">
+
+      SEND Support Services
+    </text>
+
+    <!-- Description -->
+    <text x="20" y="62" font-size="11" fill="#9198a1">
+      Specialist SEND support services in West Yorkshire,
+    </text>
+    <text x="20" y="78" font-size="11" fill="#9198a1">
+      providing tailored support for children and families.
+    </text>
+
+    <!-- Status -->
+    <rect x="20" y="98" width="48" height="19"
+          rx="9.5" fill="#238636"/>
+    <circle cx="29" cy="107.5" r="3" fill="#ffffff"/>
+    <text x="36" y="111" font-size="9"
+          font-weight="600" fill="#ffffff">
+      LIVE
+    </text>
+
+    <text x="76" y="111" font-size="10" fill="#9198a1">
+      Website
+    </text>
+
+    <!-- Technologies -->
+    <text x="20" y="137" font-size="10" fill="#9198a1">
+      HTML · CSS · JavaScript
+    </text>
+  </g>
+</svg>
